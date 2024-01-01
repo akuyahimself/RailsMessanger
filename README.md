@@ -1,24 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Hi!
+---------------------------------------------------------------------------------
+This is the room-kind messanger, created with hotwire(turbostream)
+Also project conatains tailwind css library and devise log-in\register library
+Rspec tests are using different gems, such as factory bor, faker, shoulda-mathers
+----------------------------------------------------------------------------------
+Made as a practice ruby on rails application
